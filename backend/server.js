@@ -22,6 +22,10 @@ const limiter = rateLimit({
 });
 app.use(limiter);
 
+app.get("/", (req, res) => {
+  res.send("Backend is running!");
+});
+
 // CORS configuration
 const corsOptions = {
   origin: process.env.NODE_ENV === 'production' 
