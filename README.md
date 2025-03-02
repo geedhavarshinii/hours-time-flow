@@ -1,6 +1,6 @@
-# Productivity Widget
+# Hours - See your time fly by
 
-A beautiful and intuitive productivity tracking application that helps you monitor your productive hours and manage tasks. Works offline by default, with optional cloud sync.
+A beautiful and intuitive time tracking application that helps you monitor your productive hours and manage tasks. Works offline by default, with optional cloud sync.
 
 ## Features
 
