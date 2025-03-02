@@ -60,7 +60,7 @@ const HomePage = ({ onStart, darkMode, toggleTheme }) => {
             Get Started
           </motion.button>
           <a 
-            href="https://github.com/geedhavarshinii/productivity-widget" 
+            href="https://github.com/geedhavarshinii/hours-time-flow" 
             target="_blank"
             rel="noopener noreferrer"
             className={`px-8 py-4 rounded-2xl text-lg font-semibold ${
